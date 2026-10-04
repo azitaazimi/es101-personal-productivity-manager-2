@@ -1,3 +1,3 @@
 This is a class activity project folder
 
-This is Version 0.2
+This is Version 0.3
